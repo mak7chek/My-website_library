@@ -1,6 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
+    font-family: Pacifico, sans-serif;
+    line-height: 2;
     margin: 0;
     padding: 0;
     background-color: #f9f9f9;
@@ -45,6 +45,15 @@ h1 {
     background-clip: text;
     color: transparent;
 }
+h2 {
+    text-align: center;
+    background-image: linear-gradient(
+            to right, #440775, #ff9af4
+    );
+    background-clip: text;
+    color: transparent;
+}
+
 
 main img {
     display: block;
